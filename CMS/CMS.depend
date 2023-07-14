@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1685788081 source:c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\cms\utility_control.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"LIB.h"
+	"utility_control.h"
+
+1685786074 c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\cms\lib.h
+
+1685786113 c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\cms\utility_control.h
+
+1685788550 source:c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\cms\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"LIB.h"
+	"utility_control.h"
+	"CMS.h"
+
+1688730744 c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\cms\cms.h
+
+1685803061 source:c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\cms\cms.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"LIB.h"
+	"utility_control.h"
+	"CMS.h"
+
